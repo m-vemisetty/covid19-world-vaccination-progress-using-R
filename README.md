@@ -11,6 +11,8 @@ What country has vaccinated more people?
 What country has immunized the largest percent from its population?
 What is the country that vaccinated completely most of the population?
 Can you trace the daily vaccinations dynamic?
+
+
 Expected submission
 A successful submission will have to include:
 
